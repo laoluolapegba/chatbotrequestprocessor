@@ -1,0 +1,73 @@
+2019-04-18T07:52:36.090Z ERROR: Error calling orachestrator:Error: getaddrinfo ENOTFOUND ewp.mobilemoney.mtn.ci ewp.mobilemoney.mtn.ci:8018
+2019-04-21T14:01:38.996Z ERROR: uncaughtException: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'momo_exchange' in vhost '/': received 'fanout' but current is 'topic'"
+Error: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'momo_exchange' in vhost '/': received 'fanout' but current is 'topic'"
+    at Channel.C.accept (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\channel.js:403:24)
+    at Connection.mainAccept [as accept] (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\connection.js:62:33)
+    at Socket.go (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\connection.js:465:48)
+    at Socket.emit (events.js:182:13)
+    at emitReadable_ (_stream_readable.js:531:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-04-21T14:16:32.354Z ERROR: uncaughtException: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'momo_exchange' in vhost '/': received 'fanout' but current is 'topic'"
+Error: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'momo_exchange' in vhost '/': received 'fanout' but current is 'topic'"
+    at Channel.C.accept (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\channel.js:403:24)
+    at Connection.mainAccept [as accept] (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\connection.js:62:33)
+    at Socket.go (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\connection.js:465:48)
+    at Socket.emit (events.js:182:13)
+    at emitReadable_ (_stream_readable.js:531:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-04-21T14:18:31.217Z ERROR: uncaughtException: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'momo_exchange' in vhost '/': received 'fanout' but current is 'topic'"
+Error: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'momo_exchange' in vhost '/': received 'fanout' but current is 'topic'"
+    at Channel.C.accept (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\channel.js:403:24)
+    at Connection.mainAccept [as accept] (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\connection.js:62:33)
+    at Socket.go (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\connection.js:465:48)
+    at Socket.emit (events.js:182:13)
+    at emitReadable_ (_stream_readable.js:531:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-04-21T14:19:59.586Z ERROR: uncaughtException: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'momo_exchange' in vhost '/': received 'fanout' but current is 'topic'"
+Error: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'momo_exchange' in vhost '/': received 'fanout' but current is 'topic'"
+    at Channel.C.accept (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\channel.js:403:24)
+    at Connection.mainAccept [as accept] (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\connection.js:62:33)
+    at Socket.go (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\connection.js:465:48)
+    at Socket.emit (events.js:182:13)
+    at emitReadable_ (_stream_readable.js:531:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-04-21T14:43:45.203Z ERROR: uncaughtException: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'momo_exchange' in vhost '/': received 'fanout' but current is 'topic'"
+Error: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'momo_exchange' in vhost '/': received 'fanout' but current is 'topic'"
+    at Channel.C.accept (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\channel.js:403:24)
+    at Connection.mainAccept [as accept] (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\connection.js:62:33)
+    at Socket.go (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\connection.js:465:48)
+    at Socket.emit (events.js:182:13)
+    at emitReadable_ (_stream_readable.js:531:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-04-21T14:44:55.108Z ERROR: uncaughtException: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'momo_exchange' in vhost '/': received 'fanout' but current is 'topic'"
+Error: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'momo_exchange' in vhost '/': received 'fanout' but current is 'topic'"
+    at Channel.C.accept (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\channel.js:403:24)
+    at Connection.mainAccept [as accept] (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\connection.js:62:33)
+    at Socket.go (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\connection.js:465:48)
+    at Socket.emit (events.js:182:13)
+    at emitReadable_ (_stream_readable.js:531:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-04-21T14:57:38.610Z ERROR: uncaughtException: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'momo_exchange' in vhost '/': received 'fanout' but current is 'topic'"
+Error: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'momo_exchange' in vhost '/': received 'fanout' but current is 'topic'"
+    at Channel.C.accept (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\channel.js:403:24)
+    at Connection.mainAccept [as accept] (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\connection.js:62:33)
+    at Socket.go (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\connection.js:465:48)
+    at Socket.emit (events.js:182:13)
+    at emitReadable_ (_stream_readable.js:531:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-04-21T15:20:29.711Z ERROR: uncaughtException: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'momo_exchange' in vhost '/': received 'fanout' but current is 'topic'"
+Error: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'momo_exchange' in vhost '/': received 'fanout' but current is 'topic'"
+    at Channel.C.accept (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\channel.js:403:24)
+    at Connection.mainAccept [as accept] (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\connection.js:62:33)
+    at Socket.go (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\connection.js:465:48)
+    at Socket.emit (events.js:182:13)
+    at emitReadable_ (_stream_readable.js:531:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+2019-04-21T15:21:23.526Z ERROR: uncaughtException: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'momo_exchange' in vhost '/': received 'fanout' but current is 'topic'"
+Error: Channel closed by server: 406 (PRECONDITION-FAILED) with message "PRECONDITION_FAILED - inequivalent arg 'type' for exchange 'momo_exchange' in vhost '/': received 'fanout' but current is 'topic'"
+    at Channel.C.accept (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\channel.js:403:24)
+    at Connection.mainAccept [as accept] (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\connection.js:62:33)
+    at Socket.go (C:\LaoluOlapegba\Myprojects\openfactor\mtnchatbox\requestprocessor\node_modules\amqplib\lib\connection.js:465:48)
+    at Socket.emit (events.js:182:13)
+    at emitReadable_ (_stream_readable.js:531:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)

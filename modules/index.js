@@ -1,0 +1,1 @@
+exports.logger = require('../utils/winston.js').logger;

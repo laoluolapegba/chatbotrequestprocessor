@@ -1,0 +1,8 @@
+2019-04-18T07:52:35.965Z INFO: Calling mtn server
+2019-04-18T07:52:36.090Z ERROR: Error calling orachestrator:Error: getaddrinfo ENOTFOUND ewp.mobilemoney.mtn.ci ewp.mobilemoney.mtn.ci:8018
+2019-04-21T15:30:40.697Z INFO: [x] Received Msg for conversationId '%s' 935cf4443225415ca92a7462be93048
+2019-04-21T15:30:40.721Z INFO: Calling Service Orchestrator
+2019-04-21T15:30:40.730Z INFO: [x] Received Msg for conversationId '%s' 935cf4443225415ca92a7462be93048
+2019-04-21T15:30:40.731Z INFO: Calling Service Orchestrator
+2019-04-21T15:30:41.026Z WARN: ::::::::::::initiateministatement error::::::>>>>>>>>>>>Error: getaddrinfo ENOTFOUND ewp.mobilemoney.mtn.ci ewp.mobilemoney.mtn.ci:8018
+2019-04-21T15:30:41.029Z WARN: ::::::::::::initiateministatement error::::::>>>>>>>>>>>Error: getaddrinfo ENOTFOUND ewp.mobilemoney.mtn.ci ewp.mobilemoney.mtn.ci:8018

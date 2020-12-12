@@ -1,0 +1,45 @@
+
+{
+    "development": {
+        "config_id": "development",
+        "app_name": "requestProcessor",
+        "app_desc": "Process Requests from NLP",
+        "node_port": 3000,
+        "json_indentation": 4,
+        "ministatementUri": "https://ewp.mobilemoney.mtn.ci:8018/chatbot/api/initiateministatement",
+        "balanceEnquiryUri":"https://ewp.mobilemoney.mtn.ci:8018/chatbot/api/initiatebalance",
+        "airtimeTopUpUri":"https://ewp.mobilemoney.mtn.ci:8018/chatbot/api/Initiatepayment",
+        "p2pTransferUri":"https://ewp.mobilemoney.mtn.ci:8018/chatbot/api/initiatepeertopeertransfer",
+        "transferQuoteUri":"https://ewp.mobilemoney.mtn.ci:8018/chatbot/api/Initiatetransferquote",
+        "amqp_url": "amqp://queuser:queuser@209.97.189.137:5672",
+        "amqp_exchange":"momo_exchange",
+        "ministatementQue": "bot_in_ministatement",
+        "balanceEnquiryQue":"bot_in_balanceenq",
+        "airtimeTopUpQue":"bot_in_payment",
+        "p2pTransferQue":"bot_in_p2p",
+        "databaseUri":"mongodb://mtnmomouser:momoS0hLoco@209.97.189.137:27017/mtnmomo",
+        "requestTimeout":500
+
+    },
+    
+    "production": {
+        "config_id": "production",
+        "app_name": "requestProcessor",
+        "app_desc": "Process Requests from NLP",
+        "node_port": 3000,
+        "json_indentation": 4,
+        "ministatementUri": "https://ewp.mobilemoney.mtn.ci:8018/chatbot/api/initiateministatement",
+        "balanceEnquiryUri":"https://ewp.mobilemoney.mtn.ci:8018/chatbot/api/initiatebalance",
+        "airtimeTopUpUri":"https://ewp.mobilemoney.mtn.ci:8018/chatbot/api/initiatepayment",
+        "p2pTransferUri":"https://ewp.mobilemoney.mtn.ci:8018/chatbot/api/initiatepeertopeertransfer",
+        "transferQuoteUri":"https://ewp.mobilemoney.mtn.ci:8018/chatbot/api/initiatetransferquote",
+        "amqp_url": "amqp://queuser:queuser@209.97.189.137:5672",
+        "amqp_exchange":"momo_exchange",
+        "ministatementQue": "bot_in_ministatement",
+        "balanceEnquiryQue":"bot_in_balanceenq",
+        "airtimeTopUpQue":"bot_in_payment",
+        "p2pTransferQue":"bot_in_p2p",
+        "databaseUri":"mongodb://mtnmomouser:momoS0hLoco@209.97.189.137:27017/mtnmomo",
+        "requestTimeout":500
+    }
+}
